@@ -1,0 +1,13 @@
+body{
+    font-family: 'Sigmar', cursive;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y:center;
+}
+img{
+    height: 100px;
+    margin-bottom: 10px;
+    box-shadow: 0px 0px 10px black;
+    border-radius: 60px;
+}
